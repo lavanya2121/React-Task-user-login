@@ -1,0 +1,31 @@
+.card-header-label {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 15px;
+    font-size: 14px;
+}
+
+.card-header-logo {
+    margin: 15px 2px;
+    display: flex;
+}
+
+.comment-add-btn {
+    vertical-align: bottom;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.comment-input {
+    width: 80%;
+}
+
+.w-40 {
+    width: 40%!important;
+}
+
+.newsfeed-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
